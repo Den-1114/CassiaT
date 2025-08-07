@@ -1,6 +1,6 @@
 # CassiaT
 
-**CassiaT** is a modular, Python-based framework for developing intelligent agents and running automated workflows. Designed with flexibility and experimentation in mind, it supports agent-based operations powered by configurable environments.
+**CassiaT** is a modular, Python-based project for automating intelligent agents and running automated workflows. Designed with flexibility and experimentation in mind, it supports agent-based operations powered by configurable environments.
 
 ## ✨ Features
 

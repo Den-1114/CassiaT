@@ -54,6 +54,3 @@ CassiaT/
 ├── pyproject.toml   # Project metadata
 ```
 
-## 🪪 License
-
-CassiaT is licensed under the [MIT License](LICENSE).

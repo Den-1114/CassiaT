@@ -1,0 +1,9 @@
+/configs/.env
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+uv.lock

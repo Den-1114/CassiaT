@@ -1,0 +1,25 @@
+[project]
+name = "Cassia Tour Project"
+version = "0.1.0"
+description = "Cassia Tour Project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "browser-use>=0.4.4",
+    "colorama>=0.4.6",
+    "duckduckgo-search>=8.0.4",
+    "fastapi>=0.116.1",
+    "langchain>=0.3.26",
+    "langchain-chroma>=0.2.4",
+    "langchain-community>=0.3.26",
+    "langchain-ollama>=0.3.3",
+    "langchain-openai>=0.3.28",
+    "langgraph>=0.5.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.0",
+    "pydantic>=2.11.7",
+    "pymupdf>=1.26.1",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.2.0",
+    "uvicorn>=0.35.0",
+]
